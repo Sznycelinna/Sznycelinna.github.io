@@ -1,0 +1,25 @@
+.btn-outline-info{
+	background-color: black;
+
+
+}
+
+.btn-outline-info:hover{
+	background-color: red;
+}
+
+body{
+	background-image: url(http://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2015/07/open-book-coloring-page.png);
+	background-attachment: fixed;
+    background-position: center;
+}
+
+
+.btn{
+	font-family: times new roman;
+}
+
+.btn-primary:hover{
+border-color: red;
+}
+
